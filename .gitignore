@@ -1,0 +1,12 @@
+# NodeJS specific #
+# dependencies
+/node_modules
+
+# misc
+
+#More
+npm-debug.log
+package-lock.json
+
+*.docx
+*.txt
